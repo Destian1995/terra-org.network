@@ -3,10 +3,18 @@ variable "yandex_token" {
   default = "y0_AgAAAABKoqiNAATuwQAAAADNipS88UIe7R7eTAqEKnHTt3FDwpNSgPk"
 }
 
-variable "yandex_folder_id" {
+variable "yc_folder-id" {
   type = string
   default = "b1ggthdvv3nparichh2u"
 }
+
+variable "yc_region" {
+  default = "ru-central1-a"
+}  
+
+variable "yc_cloud_id" {
+  default = "ru-central1"
+}  
 
 variable "network_id" {
   type = string
