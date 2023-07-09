@@ -1,4 +1,4 @@
-variable "yandex_token" {
+variable "yс_token" {
   type = string
   default = "y0_AgAAAABKoqiNAATuwQAAAADNipS88UIe7R7eTAqEKnHTt3FDwpNSgPk"
 }
