@@ -1,6 +1,6 @@
 variable "yс_token" {
   type    = string
-  default = "y0_AgAAAABKoqiNAATuwQAAAADNipS88UIe7R7eTAqEKnHTt3FDwpNSgPk"
+  default = "y0_****************************************Pk"
 }
 
 variable "yc_folder_id" {
